@@ -28,8 +28,9 @@ Fleet Management App adalah aplikasi Android berbasis Kotlin dengan Jetpack Comp
 4. Jalankan aplikasi menggunakan emulator atau perangkat fisik.
 
 ## Screenshot
+![Desain tanpa judul (4)](https://github.com/user-attachments/assets/16c01def-94ee-4628-b8f5-3ed9402ba96d)
 
-![Screenshot_20250325-160428](https://github.com/user-attachments/assets/440d69c1-a78f-41a5-a1e5-a72e709a3967) ![Screenshot_20250325-160440](https://github.com/user-attachments/assets/c3de2493-ba11-4f2f-99a9-2f8ffb155e43) ![Screenshot_20250325-160451](https://github.com/user-attachments/assets/554b8e74-5894-40ac-ac50-0e889c7fe5dd)
+
 
 
 
