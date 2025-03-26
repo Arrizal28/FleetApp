@@ -5,7 +5,7 @@ Fleet Management App adalah aplikasi Android berbasis Kotlin dengan Jetpack Comp
 ## Fitur Utama
 - **Live Tracking**: Menampilkan posisi kendaraan di peta secara real-time.
 - **Dashboard Sensor**: Menampilkan informasi sensor kendaraan seperti kecepatan, Engine status (on/off), dan Door status (open/close).
-- **Event Alerts**: Notifikasi untuk kejadian penting seperti kecepatan berlebih atau pintu terbuka ketika kendaraan berjalan.
+- **Event Alerts**: Card Text untuk kejadian penting seperti kecepatan berlebih atau pintu terbuka ketika kendaraan berjalan.
 
 ## Persyaratan
 - Android Studio terbaru
