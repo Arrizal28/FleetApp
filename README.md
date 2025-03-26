@@ -14,10 +14,7 @@ Fleet Management App adalah aplikasi Android berbasis Kotlin dengan Jetpack Comp
 - Koneksi internet untuk mendapatkan data real-time
 
 ## Instalasi
-1. Clone repository ini:
-   ```bash
-   git clone https://github.com/username/fleet-management-app.git
-   ```
+1. Clone repository ini.
 2. Buka project dengan Android Studio.
 3. Tambahkan **Google Maps API Key** di `AndroidManifest.xml`:
    ```xml
